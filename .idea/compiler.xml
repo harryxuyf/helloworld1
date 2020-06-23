@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="helloworld1" />
         <module name="clonefromgithub" />
+        <module name="helloworld3" />
+        <module name="helloworld1" />
       </profile>
     </annotationProcessing>
   </component>
